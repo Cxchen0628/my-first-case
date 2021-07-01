@@ -1,0 +1,26 @@
+li{
+    width: 600px;
+    height: 40px;
+    background: pink;
+    line-height: 40px;
+    border: 1px solid;
+    position: relative;
+}
+.active{
+    background: #ddd;
+}
+
+li button {
+    position: absolute;
+    right: 20px;
+    top: 10%;
+    width: 60px;
+    height: 30px;
+    background: red;
+    border: none;
+}
+li button:hover{
+    background-color: #ddd;
+    border: 1px solid;
+
+}

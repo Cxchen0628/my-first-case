@@ -1,0 +1,8 @@
+footer{
+    width: 600px;
+    height: 40px;
+    line-height: 40px;
+    background: skyblue;
+    display: flex;
+    justify-content: space-between;
+}
